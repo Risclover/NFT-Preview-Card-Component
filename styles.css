@@ -24,8 +24,7 @@ body, html {
 .margin {
     position: relative;
     display: flex;
-    height: 90%;
-    max-height: 90vh;
+    min-height: 90vh;
     align-items: center;
     justify-content: center;
     padding: 25px 23px 25px 25px;
@@ -176,6 +175,13 @@ footer {
     font-size: .9rem;
     max-width: 100vw;
     width: 100%;
-    margin: 10px 0;
+    margin: 10px 0 0 0;
     background-color:hsla(216, 54%, 11%, 0.815);
+}
+
+
+@media (max-width: 400px) {
+    footer {
+        font-size: .7rem;
+    }
 }
