@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-To be honest, nothing. I did, however, want to mention that I was able to complete this in no more than a half hour. I'm so proud of myself for getting this HTML/CSS stuff down!
+To be honest, I didn't really learn much this round. It was pretty basic stuff for me at this point. I did, however, want to mention that I was able to complete this in no more than a half hour. I'm so proud of myself for getting this HTML/CSS stuff down!
 
 Oh, I did, however, manage to do the hero image hover effect pretty much by myself. I'm proud of that.
 
