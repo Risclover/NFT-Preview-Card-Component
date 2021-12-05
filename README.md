@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View solution](https://www.frontendmentor.io/profile/Risclover)
-- Live Site URL: [Go to live site](https://risclover.github.io/NFT-Preview-Card-Component)
+- [View solution](https://www.frontendmentor.io/profile/Risclover)
+- [Go to live site](https://risclover.github.io/NFT-Preview-Card-Component)
 
 ## My process
 
